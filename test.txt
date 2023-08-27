@@ -1,0 +1,12 @@
+root@ip-172-31-10-57:/var/www/html/vts_erso# sudo cat /etc/mysql/debian.cnf
+# Automatically generated for Debian scripts. DO NOT TOUCH!
+[client]
+host     = localhost
+user     = debian-sys-maint
+password = ufhZsZ9uXW4SzjKZ
+socket   = /var/run/mysqld/mysqld.sock
+[mysql_upgrade]
+host     = localhost
+user     = debian-sys-maint
+password = ufhZsZ9uXW4SzjKZ
+
